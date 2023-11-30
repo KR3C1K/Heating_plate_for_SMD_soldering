@@ -1,1 +1,1 @@
-# Heating_plate-_for_SMD_soldering
+# Heating_plate_for_SMD_soldering
